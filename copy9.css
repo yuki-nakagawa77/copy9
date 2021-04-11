@@ -57,4 +57,20 @@ a {
 
 #fashion{
   background-image: url(img/fashion.jpg);
+  height: 520px;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+  text-align: center;
+  padding-top: 60px;
+  margin-bottom: 80px;
+}
+
+.btn {
+  color: #2a2a2a;
+  border: solid 1px #2a2a2a;
+  display: inline-block;
+  font-size: 0.750rem;
+  padding: 14px 36px;
+  margin-top: 30px;
 }
